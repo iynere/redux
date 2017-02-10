@@ -1,0 +1,1 @@
+export const SET_LYRIC = 'SET_LYRIC';
